@@ -1,0 +1,27 @@
+/* Initializing Custom Fonts Here */
+
+/* Moongose Regular */
+@font-face {
+    font-family: 'Mongoose Regular';
+    src: url('https://res.cloudinary.com/dznkentev/raw/upload/v1641547635/Typography/Mongoose/Mongoose-Regular_dobpyg.eot');
+    src: url('https://res.cloudinary.com/dznkentev/raw/upload/v1641547635/Typography/Mongoose/Mongoose-Regular_dobpyg.eot?#iefix') format('embedded-opentype'),
+        url('https://res.cloudinary.com/dznkentev/raw/upload/v1641547634/Typography/Mongoose/Mongoose-Regular_dkgmvb.woff2') format('woff2'),
+        url('https://res.cloudinary.com/dznkentev/raw/upload/v1641547634/Typography/Mongoose/Mongoose-Regular_ceguck.woff') format('woff'),
+        url('https://res.cloudinary.com/dznkentev/raw/upload/v1641547634/Typography/Mongoose/Mongoose-Regular_q6k9ce.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Armin Grotesk Regular */
+@font-face {
+    font-family: 'Armin Grotesk Regular';
+    src: url('https://res.cloudinary.com/dznkentev/raw/upload/v1641477616/Typography/Armin%20Grotesk/ArminGrotesk-Regular_ptvf4i.eot');
+    src: local('Armin Grotesk Regular'), local('ArminGrotesk-Regular'),
+        url('https://res.cloudinary.com/dznkentev/raw/upload/v1641477616/Typography/Armin%20Grotesk/ArminGrotesk-Regular_ptvf4i.eot?#iefix') format('embedded-opentype'),
+        url('https://res.cloudinary.com/dznkentev/raw/upload/v1641477617/Typography/Armin%20Grotesk/ArminGrotesk-Regular_gixgxj.woff2') format('woff2'),
+        url('https://res.cloudinary.com/dznkentev/raw/upload/v1641477616/Typography/Armin%20Grotesk/ArminGrotesk-Regular_mnrysv.woff') format('woff'),
+        url('https://res.cloudinary.com/dznkentev/raw/upload/v1641477616/Typography/Armin%20Grotesk/ArminGrotesk-Regular_mv7jyv.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
