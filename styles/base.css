@@ -123,8 +123,8 @@ html {
 
 @font-face {
 	font-family: 'Mongoose Regular';
-	src: url('https://res.cloudinary.com/arthesus/raw/upload/v1641547635/Typography/Mongoose/Mongoose-Regular_dobpyg.eot');
-	src: url('https://res.cloudinary.com/arthesus/raw/upload/v1641547635/Typography/Mongoose/Mongoose-Regular_dobpyg.eot?#iefix') format('embedded-opentype'), url('https://res.cloudinary.com/arthesus/raw/upload/v1641547634/Typography/Mongoose/Mongoose-Regular_dkgmvb.woff2') format('woff2'), url('https://res.cloudinary.com/arthesus/raw/upload/v1641547634/Typography/Mongoose/Mongoose-Regular_ceguck.woff') format('woff'), url('https://res.cloudinary.com/arthesus/raw/upload/v1641547634/Typography/Mongoose/Mongoose-Regular_q6k9ce.ttf') format('truetype');
+	src: url('https://res.cloudinary.com/arthesus/raw/upload/v1641477009/Typography/Mongoose%20Regular/Mongoose-Regular_gwxfsf.eot');
+	src: url('https://res.cloudinary.com/arthesus/raw/upload/v1641477009/Typography/Mongoose%20Regular/Mongoose-Regular_gwxfsf.eot?#iefix') format('embedded-opentype'), url('https://res.cloudinary.com/arthesus/raw/upload/v1641477010/Typography/Mongoose%20Regular/Mongoose-Regular_eeh794.woff2') format('woff2'), url('https://res.cloudinary.com/arthesus/raw/upload/v1641477009/Typography/Mongoose%20Regular/Mongoose-Regular_ihqlrp.woff') format('woff'), url('https://res.cloudinary.com/arthesus/raw/upload/v1641477009/Typography/Mongoose%20Regular/Mongoose-Regular_dvxpgi.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
